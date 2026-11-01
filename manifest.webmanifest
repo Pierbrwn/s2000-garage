@@ -1,1 +1,18 @@
-{"name":"S2000 Garage — 2002 AP1","short_name":"S2000 Garage","start_url":"./","scope":"./","display":"standalone","background_color":"#152d3d","theme_color":"#152d3d","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "S2000 Garage \u2014 2002 AP1",
+  "short_name": "S2000 Garage",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#152d3d",
+  "theme_color": "#152d3d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Offline-capable personal Honda S2000 repair reference. Export notes regularly."
+}
